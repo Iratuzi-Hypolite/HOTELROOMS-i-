@@ -1,0 +1,235 @@
+
+body{
+    background: #ffffff;
+     width: 1440px;
+     height: 1550px;
+}
+.headertop{
+    position: absolute;
+    width: 1590px;
+    height: 125px;
+    left: 0px;
+    top: 2px;
+    background: linear-gradient(180deg, #ffffff 0%, rgba(255, 255, 255, 0) 75.8%);
+    border-bottom: 2px solid #000000;
+}
+.log{
+    width: 250px;
+    height: 125px;
+    position: absolute;
+
+}
+.fg{
+    position: absolute;
+    top: 15px;
+}
+.luxx-gala-logo{
+    height: 125px;
+    width:130px;
+}
+.luxx-gala-name{
+  
+position: absolute;
+width: 354px;
+height: 300px;
+left: 600px;
+top: 40px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 31px;
+letter-spacing: 0.2em;
+
+color: #000000;
+}
+.login{
+    position: absolute;
+width: 315px;
+height: 75px;
+left: 150px;
+top: 300px;
+text-decoration: none;
+background: #41B03E;
+border-radius: 15px;
+}
+.login a{
+left: 1231px;
+top: 43px;
+text-decoration: none; 
+color: #000000;
+
+}
+.signup{
+    position: absolute;
+width: 315px;
+height: 75px;
+left: 150px;
+top: 700px;
+text-decoration: none;
+background: #41B03E;
+border-radius: 15px;
+}
+
+.signup a{
+    left: 1231px;
+    top: 43px;
+    text-decoration: none; 
+    color: #000000;
+ 
+}
+hr{
+    top: 450px;
+    position: absolute;
+    left: 80px;
+    width: 450px;
+    font-weight: 800;
+    border:2px solid #000000;
+}
+.header-min{
+    position: absolute;
+    width: 1590px;
+    height: 125px;
+    left: 0px;
+    top: 125px;
+    background: linear-gradient(180deg, #d8d2d2 0%, rgba(255, 255, 255, 0) 75.8%);
+    border-bottom: 2px solid #000000;
+}
+.link1-know{
+    
+position: absolute;
+width: 300px;
+height: 40px;
+left: 180px;
+top: 35px;
+
+background: #41B03E;
+border-radius: 15px;
+}
+.link1-know a{
+    text-decoration: none;
+    color: #000000;
+}
+.link1-gallery a{
+    text-decoration: none;
+    color: #000000;
+}
+.link1-officegate a{
+    text-decoration: none;
+    color: #000000;
+}
+.link1-next a{
+    text-decoration: none;
+    color: #000000;
+}
+.link1-service{
+    
+position: absolute;
+width: 300px;
+height: 40px;
+left:530px;
+top: 35px;
+
+background: #8c918c;
+border-radius: 15px;
+}
+.link1-next{
+    
+position: absolute;
+width: 50px;
+height: 40px;
+right: 0px;
+top: 35px;
+
+background: #41B03E;
+border-radius: 15px;
+}
+.link1-gallery{
+    
+position: absolute;
+width: 300px;
+height: 40px;
+left: 860px;
+top: 35px;
+
+background: #41B03E;
+border-radius: 15px;
+}
+.link1-officegate{
+    
+position: absolute;
+width: 300px;
+height: 40px;
+left: 1200px;
+top: 35px;
+
+background: #41B03E;
+border-radius: 15px;
+}
+.link1-officegate a{
+    text-decoration: none;
+    color: black;
+}
+.section{
+    position: absolute;
+    width: 1590px;
+    height: 1000px;
+    left: 0;
+    top: 250px;
+    background: linear-gradient(180deg, #ffffff 0%, rgba(255, 255, 255, 0) 75.8%);
+    border-bottom: 2px solid #000000;
+}
+.body-section-1{
+    position: absolute;
+    width: 1600px;
+    height: 950px;
+    left: 0;
+    top: 10px;
+
+}
+.body-section-x{
+    position: absolute;
+    width: 1300px;
+    height: 950px;
+    left: 100px;
+    top: 430px;
+    color: #ffffff;
+
+}
+.homx-gala-pc{
+position: absolute;
+width: 1600px;
+height:950px;
+left:5px;
+top: 5px;
+border-radius: 25px;
+border-right:10px solid #000000;
+border-top:15px solid #000000;
+border-bottom:2px solid #000000;
+border-left:2px solid #000000;
+}
+.bottom-section{
+    position: absolute;
+    width: 1590px;
+    height: 300px;
+    left: 0;
+    top: 1300px;
+    background-color: #000000;
+}
+.vef-luxx-gala{
+    color: #ffffff;
+    
+position: absolute;
+width: 160px;
+height: 48px;
+left: 1233px;
+top: 122px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+letter-spacing: 0.2em;
+}

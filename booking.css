@@ -1,0 +1,220 @@
+body{
+    background-color: rgb(89, 83, 83);
+    width: 1440px;
+    height: 1200px;
+    background-image: url(photos/homx-gala-pc1.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.signup-form{
+    box-sizing: border-box;
+justify-content: center;
+position: absolute;
+width: 504px;
+height: 1024px;
+left: 514px;
+top: 160px;
+opacity: .9;
+background: linear-gradient(180deg, #FFFFFF 0%, rgba(255, 255, 255, 0) 100%);
+border-right: 3px solid #100f0f;
+border-top: 3px solid #100f0f;
+border-left: 3px solid #ffffff;
+border-bottom: 3px solid #ffffff;
+border-radius: 25px 0px;
+}
+.word1{
+    position: absolute;
+width: 252px;
+height: 72px;
+left: 208px;
+top: 110px;
+
+}
+.word2{
+    position: absolute;
+width: 252px;
+height: 72px;
+left: 218px;
+top: 160px;
+
+}
+.word3{
+    position: absolute;
+width: 265px;
+height: 72px;
+left: 228px;
+top: 190px;
+
+}
+.input{
+    position: absolute;
+    width: 480px;
+    height: 750px;
+    top: 240px;
+}
+.firstname{
+    position: absolute;
+    left: 50px;
+    top: 18px;
+    font-size: 25px;
+}
+.input-va1{ 
+    position: absolute;
+left: 50px;
+top: 70px;
+font-size: 12px;
+    width: 400px;
+    height: 30px;
+    border-radius: 15px;
+    background-color: transparent;
+    border-top: #100f0f;
+}
+.lastname{
+    position: absolute;
+    left: 50px;
+    top: 90px;
+    font-size: 25px;
+}
+.input-va2{ 
+    position: absolute;
+left: 50px;
+top: 150px;
+font-size: 15px;
+    width: 400px;
+    height: 30px;
+    border-radius: 15px;
+    background-color: transparent;
+    border-top: #100f0f;
+}
+p.password{
+    position: absolute;
+    left: 50px;
+    top: 165px;
+    font-size: 25px;
+    color: black;
+}
+
+.input-va3{ 
+    position: absolute;
+left: 50px;
+top: 220px;
+font-size: 45px;
+    width: 400px;
+    height: 30px;
+    border-radius: 15px;
+    background-color: transparent;
+    border-top: #100f0f;
+}
+p.c-password{
+    position: absolute;
+    left: 50px;
+    top: 230px;
+    font-size: 25px;
+    color: black;
+}
+.input-va4{ 
+    position: absolute;
+left: 50px;
+top: 290px;
+font-size: 45px;
+    width: 400px;
+    height: 30px;
+    border-radius: 15px;
+    background-color: transparent;
+    border-top: #100f0f;
+}
+.gender{
+    position: absolute;
+    left: 90px;
+    top:320px;
+    font-size: 25px;
+    color: #000000;
+
+}
+.male-bn{
+    position: absolute;
+    left: 180px;
+    top:360px;
+    font-size: 25px;
+    color: #ffffff;
+
+}
+.female-btn{
+    position: absolute;
+    left: 250px;
+    top:360px;
+    font-size: 25px;
+    color: #ffffff;
+
+}
+
+.male{
+    position: absolute;
+    left: 180px;
+    top:360px;
+    font-size: 25px;
+    color: #000000;
+
+}
+.female{
+    position: absolute;
+    left: 250px;
+    top:360px;
+    font-size: 25px;
+    color: #000000;
+
+}
+.nationality{
+    position: absolute;
+    left: 70px;
+    top: 390px;
+    font-size: 25px;
+}
+.select-country{
+position: absolute;
+left: 70px;
+top: 450px;
+width: 130px;
+}
+.id-number{
+    position: absolute;
+    left: 250px;
+    top: 385px;
+    font-size: 25px;
+}
+.input-va5{
+    position: absolute;
+    left: 210px;
+    top: 448px;
+    width: 250px;  
+}
+.checkbox-tn{
+    position: absolute;
+    left: 70px;
+    top: 500px;
+}
+.agre{
+    position: absolute;
+    left: 90px;
+    top: 490px;
+}
+.signup-btn a{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.signup-btn{
+    position: absolute;
+    left: 190px;
+    width: 160px;
+    height: 45px;
+    top: 570px;
+    border-radius: 15px;
+    background-color: #41B03E;
+    text-decoration: none;
+}
+.vel-gala{
+    position: absolute;
+    right: 20px;
+    bottom: 30px;
+}

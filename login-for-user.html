@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LUXX-GALA HOTEL CUSTOMER LOGIN</title>
+    <link rel="stylesheet" href="login-for-user.css">
+    <link rel="icon" href="luxx-gala.jpg">
+</head>
+<body>
+    <div class="login-form">
+        <form action="" method="get">
+        <div class="word1">       
+        <p><h1>LOGIN</h1></p>
+    </div>
+    <div class="word2">
+        <p>@LUXX-GALA HOTEL</p>
+    </div>
+    <div class="word3">
+        <p>WELCOME</p>
+    </div>  
+    <div class="input">
+        <p class="username"> Email & Username</p>
+        <input type="text" class="input-va1" id="name" required >
+        <br>
+         <p class="password">
+            Password
+         </p>
+        <input type="password" class="input-va2" id="password" required>
+        <br>
+        <input type="checkbox" class="checkbox-tn" required>
+        <p class="rem">Remember Me and keep log in me on this device</p>
+          <button class="login-btn" onclick="luxx()"><a href="homein-page-for-login.html">LOGIN</a></button>    
+    <p class="dx"><a href="signup-user.html">Don't hve an account</a></p>
+     
+    </div>
+    </div>
+</form> 
+    <script>
+        function luxx() {
+            alert("Welcome back to Luxx-Gala hotel")
+        }
+        const name = document.getElementById("name");
+        const password = document.getElementById("password");
+        const form = document.getElementById("form");
+        const err = document.getElementById('error')
+        form.addEventListener('submit',(e)=>{
+            let message =  []
+            if(name.value === '' || name.value == null){
+                message.push('username & emanil required')
+            }
+            if(message.length > 0)
+            e.preventDefault()
+            err.innerHTML = message.join
+        })
+    </script>
+</body>
+</html>

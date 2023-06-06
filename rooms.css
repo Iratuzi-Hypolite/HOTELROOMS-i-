@@ -1,0 +1,96 @@
+
+body{
+    background: #9a9595;
+     width: 1440px;
+     height: 1200px;
+}
+.nam{
+    position: absolute;
+    top: 80px;
+    width: 700px;
+    left: 670px;
+    letter-spacing: .4em;
+}
+.ROMX{
+    position: absolute;
+    width: 700px;
+    height: 200px;
+    top: 100px;
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+.roomtype1{
+    position: absolute;
+    width: 550px;
+    top: 200px;
+    left: 50px;
+    background-color: white;
+    height: 900px;
+    border-top-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+.room1{
+    position: absolute;
+    width: 550px;
+    top: 0px;
+    left: 0px;
+    height: 800px;
+    border-top-left-radius: 25px;
+    border-bottom: 2px solid black; 
+}
+.wo1{
+    position: absolute;
+    bottom: 3px;
+    left: 200px;
+}
+.wo2{
+    position: absolute;
+    bottom: 3px;
+    left: 200px;
+}
+.wo3{
+    position: absolute;
+    bottom: 3px;
+    left: 200px;
+}
+.roomtype2{
+    position: absolute;
+    width: 550px;
+    top: 200px;
+    left: 650px;
+    background-color: white;
+    height: 900px;
+    border-top-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+.room2{
+    position: absolute;
+    width: 550px;
+    top: 0px;
+    left: 0px;
+    height: 800px;
+    border-top-left-radius: 25px;
+    border-bottom: 2px solid black; 
+    
+}
+.roomtype3{
+    position: absolute;
+    width: 550px;
+    top: 200px;
+    left: 1250px;
+    background-color: white;
+    height: 900px;
+    border-top-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+.room3{
+    position: absolute;
+    width: 550px;
+    top: 0px;
+    left: 0px;
+    height: 800px;
+    border-bottom: 2px solid black; 
+    border-top-left-radius: 25px;
+}

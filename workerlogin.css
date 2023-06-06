@@ -1,0 +1,125 @@
+body{
+    background-color: rgb(89, 83, 83);
+    width: 1440px;
+    height: 1024px;
+    background-image: url(homx-gala-pc\ \(27\).jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.login-form{
+    box-sizing: border-box;
+justify-content: center;
+position: absolute;
+width: 504px;
+height: 663px;
+left: 514px;
+top: 180px;
+opacity: .9;
+background: linear-gradient(180deg, #FFFFFF 0%, rgba(255, 255, 255, 0) 100%);
+border-right: 3px solid #100f0f;
+border-top: 3px solid #100f0f;
+border-left: 3px solid #ffffff;
+border-bottom: 3px solid #ffffff;
+border-radius: 25px 0px;
+}
+.word1{
+    position: absolute;
+width: 252px;
+height: 72px;
+left: 208px;
+top: 110px;
+
+}
+.word2{
+    position: absolute;
+width: 252px;
+height: 72px;
+left: 218px;
+top: 160px;
+
+}
+.word3{
+    position: absolute;
+width: 252px;
+height: 72px;
+left: 228px;
+top: 190px;
+
+}
+.input{
+    position: absolute;
+    width: 480px;
+    height: 360px;
+    top: 240px;
+  
+}
+.input-va1{ 
+    position: absolute;
+left: 50px;
+top: 70px;
+font-size: 22px;
+    width: 400px;
+    height: 30px;
+    border-radius: 15px;
+    background-color: transparent;
+    border-top: #100f0f;
+}
+.input-va2{ 
+    position: absolute;
+left: 50px;
+top: 150px;
+font-size: 45px;
+    width: 400px;
+    height: 30px;
+    border-radius: 15px;
+    background-color: transparent;
+    border-top: #100f0f;
+}
+.username{
+    position: absolute;
+    left: 50px;
+    top:0px;
+    font-size: 25px;
+    color: #ffffff;
+}
+.password{
+color: #FFFFFF;
+    position: absolute;
+    left: 50px;
+    top:90px;
+    font-size: 25px;
+}
+.checkbox-tn{
+    position: absolute;
+    left: 70px;
+    top: 210px;
+}
+.rem{
+    position: absolute;
+    left: 100px;
+    top: 195px;
+}
+.login-btn{
+    position: absolute;
+    left: 190px;
+    width: 160px;
+    height: 45px;
+    top: 250px;
+    border-radius: 15px;
+    background-color: #41B03E;
+}
+.login-btn a{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.login-btn{
+    position: absolute;
+    left: 190px;
+    width: 160px;
+    height: 45px;
+    top: 250px;
+    border-radius: 15px;
+    background-color: #41B03E;
+    text-decoration: none;
+}
